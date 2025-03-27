@@ -8,3 +8,4 @@ openai
 langchain
 PyMuPDF 
 PyGithub
+linkedin-api
