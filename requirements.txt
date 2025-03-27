@@ -1,0 +1,8 @@
+streamlit
+matplotlib  # Example version - replace with your tested version
+numpy  # Example version - replace with your tested version
+plotly    # Example version - replace with your tested version
+pandas     # Example version - replace with your tested version
+Pillow     # Example version - replace with your tested version
+openai    # Example version - replace with your tested version
+langchain
