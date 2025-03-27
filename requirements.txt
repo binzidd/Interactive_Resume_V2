@@ -6,3 +6,4 @@ pandas     # Example version - replace with your tested version
 Pillow     # Example version - replace with your tested version
 openai    # Example version - replace with your tested version
 langchain
+PyMuPDF 
