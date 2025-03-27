@@ -9,3 +9,4 @@ langchain
 PyMuPDF 
 PyGithub
 linkedin-api
+langchain-community
